@@ -18,4 +18,4 @@ llm_client_openai = ChatOpenAI(
 )
 
 # Select the LLM client to use here.
-llm_client = llm_client_gemini
+llm_client = llm_client_openai
