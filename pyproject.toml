@@ -17,5 +17,6 @@ dependencies = [
     "polars>=1.34.0",
     "pyarrow>=21.0.0",
     "python-dotenv>=1.1.1",
+    "tavily-python>=0.7.23",
     "yfinance>=0.2.66",
 ]
